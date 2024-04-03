@@ -1,9 +1,13 @@
+
+
 const filmSelect = document.getElementById('film');
 const antallInput = document.getElementById('antall');
 const fornavnInput = document.getElementById('fornavn');
 const etternavnInput = document.getElementById('etternavn');
 const telefonInput = document.getElementById('telefon');
 const epostInput = document.getElementById('epost');
+
+
 
 const billetter = [];
 
